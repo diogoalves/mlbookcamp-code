@@ -5,7 +5,9 @@
 
 
 ## Notes
-
+1. Review on regression x classification definitions.
+2. Ranking as a ML task. Recommender systems.
+3. I am wondering about using ML Ranking to prioritize a task queue. A possible downside would be the difficulty to explain the score. Probably a rule-based ranking would be simple to explain.
 
 ## Navigation
 

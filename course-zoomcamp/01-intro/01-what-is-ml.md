@@ -5,6 +5,7 @@
 
 
 ## Notes
+1. This example make me wonder how I could create a similar dataset from available apartments in ZapImóveis website. Features: neighborhood, iptu, area, parking slots, bathrooms, bedrooms. Y = rent value. I will delay it creation for now.
 
 
 
