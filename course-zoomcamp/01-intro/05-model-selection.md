@@ -6,6 +6,8 @@
 
 ## Notes
 
+1. Dataset split strategy 60-20-20. 
+2. Very gently introduction.
 
 ## Navigation
 

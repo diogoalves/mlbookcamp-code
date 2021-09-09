@@ -110,6 +110,10 @@ Steps for Google Colab are same as that for Kaggle, except for some changes in S
 
    https://colab.research.google.com/github/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb
 
+## Notes
+
+1. Nice to know how to create notebook link in Colab and Kaggle from a static github file. Very practical to test a project.
+
 ## Navigation
 
 * [Machine Learning Zoomcamp course](../)
