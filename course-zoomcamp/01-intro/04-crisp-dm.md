@@ -4,8 +4,8 @@
 
 [Slides](https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-14-crispdm)
 
-## Notes
 
+## Notes
 1. I couldn´t avoid making a parallel with some process descripion from Andrew Ng ML course.
 
 | CRISP-DM machine-learning process | Andrew Ng Lifecycle of an ML project | Andrew Ng steps to scope AI projects |   |
