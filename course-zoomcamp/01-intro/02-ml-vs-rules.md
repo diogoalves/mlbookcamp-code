@@ -8,6 +8,7 @@
 1. Define what is ML  using a simple supervised classification task. Ok, it is a first approximation.
 2. I am wondering what is a good approach to automaticaly define representative features from a unstructered text. Found the term **word embeddings**. Found word2vec, fastText, BERT.
 3. I there something similar for speech representation? May be SpeechBERT text-to-speech work. 
+4. Found https://github.com/lateral/minkowski. Taking not to revisit in future.
 
 ## Navigation
 
