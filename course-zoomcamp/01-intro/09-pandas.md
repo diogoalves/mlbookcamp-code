@@ -4,7 +4,7 @@
 
 
 ## Notes
-
+1. Pandas has large surface api. There are more the one way to doing the same thing. Nice learning some tricks.
 
 ## Links
 

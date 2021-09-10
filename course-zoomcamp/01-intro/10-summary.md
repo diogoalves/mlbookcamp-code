@@ -6,7 +6,7 @@
 
 
 ## Notes
-
+1. I am liking writing notes while following sections. I will try to reread it next month.
 
 ## Navigation
 
