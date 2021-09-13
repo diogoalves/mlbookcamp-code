@@ -7,6 +7,7 @@
 
 
 ## Notes
+1. [Car Features and MSRP dataset](https://www.kaggle.com/CooperUnion/cardataset)
 
 Add notes from the video (PRs are welcome)
 
