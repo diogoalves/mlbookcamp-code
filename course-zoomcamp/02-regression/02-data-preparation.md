@@ -7,7 +7,19 @@
 
 
 ## Notes
+1. Clean columns names 
+```python
+df.columns = df.columns.str.lower().str.replace(' ', '_')
 
+```
+2. Clean object columns contents
+```python
+string_columns = list(df.dtypes[df.dtypes == 'object'].index)
+
+for col in string_columns:
+    df[col] = df[col].str.lower().str.replace(' ', '_')
+
+```
 Add notes from the video (PRs are welcome)
 
 
