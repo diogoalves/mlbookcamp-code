@@ -11,6 +11,7 @@
 
 Add notes from the video (PRs are welcome)
 
+
 <table>
    <tr>
       <td>⚠️</td>
@@ -20,6 +21,7 @@ Add notes from the video (PRs are welcome)
       </td>
    </tr>
 </table>
+
 
 ## Nagivation
 
