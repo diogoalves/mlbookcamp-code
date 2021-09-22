@@ -14,7 +14,6 @@ is taught by certain features and targets.
 * **Feature matrix (X):** made of observations (rows) and features (columns).
 * **Target variable (y):** a vector with the target information we want to predict. For each row of X there's a value in y.
 
-
 The model can be represented as a function **g** that takes the X matrix as a parameter and tries
 to predict values as close as possible to y targets. 
 The obtention of the g function is what it is called **training**.

@@ -7,19 +7,7 @@
 
 
 ## Notes
-1. Clean columns names 
-```python
-df.columns = df.columns.str.lower().str.replace(' ', '_')
 
-```
-2. Clean object columns contents
-```python
-string_columns = list(df.dtypes[df.dtypes == 'object'].index)
-
-for col in string_columns:
-    df[col] = df[col].str.lower().str.replace(' ', '_')
-
-```
 Add notes from the video (PRs are welcome)
 
 <table>
@@ -31,6 +19,19 @@ Add notes from the video (PRs are welcome)
       </td>
    </tr>
 </table>
+
+## My notes
+1. Clean spaces from columns names and object columns values
+```python
+def clean_spaces(dataframe):
+    dataframe.columns = dataframe.columns.str.lower().str.replace(' ', '_')
+
+    string_columns = list(dataframe.dtypes[df.dtypes == 'object'].index)
+
+    for col in string_columns:
+        dataframe[col] = dataframe[col].str.lower().str.replace(' ', '_')
+
+```
 
 ## Nagivation
 
